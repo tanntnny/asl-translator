@@ -1,6 +1,6 @@
 # asl-translator
 
-==This is for educational purpose :D==
+This is for educational purpose :D
 
 
 remarks
